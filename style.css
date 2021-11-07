@@ -1,0 +1,6 @@
+
+.jumbotron {
+    background-image: url("../plotly_deployment/jumbotron/belly_button.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
